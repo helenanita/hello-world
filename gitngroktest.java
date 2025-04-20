@@ -17,6 +17,7 @@ public class gitngroktest{
     System.out.println("new code pushfour");
      System.out.println("new code pushfour");
     System.out.println("new code pushfive");
+        System.out.println("new code pushsix");
     
   }
   
